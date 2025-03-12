@@ -961,7 +961,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#a1a1a1"
+				"foreground": "#5E777A"
 			}
 		},
 		{
@@ -990,7 +990,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#800000"
+				"foreground": "#BF6591"
 			}
 		},
 		{
@@ -1002,7 +1002,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#E50000"
+				"foreground": "#6B5C64"
 			}
 		},
 		{
@@ -1134,7 +1134,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#5E777A"
 			}
 		},
 		{
@@ -1149,10 +1149,11 @@
 		{
 			"scope": [
 				"string",
+				"punctuation.definition.string",
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#BF6693"
+				"foreground": "#A03D68"
 			}
 		},
 		{
@@ -1255,7 +1256,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#4E2F59"
 			}
 		},
 		{
@@ -1366,7 +1367,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#010101"
+				"foreground": "#005FA8"
 			}
 		},
 		{
@@ -1534,7 +1535,7 @@
 		{
 			"scope": "punctuation.definition",
 			"settings": {
-				"foreground": "#a1a1a1"
+				"foreground": "#00A884"
 			}
 		}
 		
