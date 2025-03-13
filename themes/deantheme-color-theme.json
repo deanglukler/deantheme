@@ -495,7 +495,7 @@
 		"keybindingTable.rowsBackground": "#6161610a",
 		"list.activeSelectionBackground": "#f7f7f7",
 		"list.activeSelectionForeground": "#000000",
-		"list.activeSelectionIconForeground": "#ffffff",
+		"list.activeSelectionIconForeground": "#000000",
 		"list.deemphasizedForeground": "#8e8e90",
 		"list.dropBackground": "#d6ebff",
 		"list.dropBetweenBackground": "#424242",
